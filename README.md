@@ -20,4 +20,4 @@ Date | Time | Theme | Keynote Speaker(s)
 
 
 ## Registration for the open science FAIR symposium
-
+To participate in the open science FAIR symposium, register by filling [this form](https://docs.google.com/forms/d/e/1FAIpQLSf-62sB59PyUbOn9v-DxTyNPEHXUadIBSkc1xxEhIeIwLeiJw/viewform)
