@@ -7,13 +7,13 @@
 * Introduce Speakers
 
 ### 11:15AM - 11:45AM: 
-Presentations by Dr. Caleb Kibet
+Presentations by Caleb Kibet
 
 ### 11:45AM - 12:15PM:
-Presentation by Dr. Jo Havemann
+Presentation by Jo Havemann
 
 ### 12:15PM - 12:45PM:
-Presentation by Mr. Johansen Obanda
+Presentation by Johansen Obanda
 
 ### 12:45PM - 12:55PM
 * BREAK
@@ -26,7 +26,7 @@ Presentation by Mr. Johansen Obanda
 * Introduce Speakers
 
 ### 11:15AM - 11:45AM: 
-Presentations by Dr. Sara El-Gebali
+Presentations by Sara El-Gebali
 
 ## Day 3 (October 13, 11:00AM - 12:45PM)
 ### 11:00AM - 11:10AM: Welcome (Caleb, Mike)
@@ -35,7 +35,7 @@ Presentations by Dr. Sara El-Gebali
 * Introduce Speakers
 
 ### 11:15AM - 11:45AM: 
-Presentations by Ms. Joy Owango
+Presentations by Joy Owango
 
 ## Day 4 (October 14, 11:00AM - 12:45PM)
 ### 11:00AM - 11:10AM: Welcome (Caleb, Margaret)
@@ -44,7 +44,7 @@ Presentations by Ms. Joy Owango
 * Introduce Speakers
 
 ### 11:15AM - 11:45AM: 
-Presentations by Dr. Malvika Sharan
+Presentations by Malvika Sharan
 
 ## Day 5 (October 15, 11:00AM - 12:45PM)
 ### 11:00AM - 11:10AM: Welcome (Caleb, Festus)
@@ -53,8 +53,8 @@ Presentations by Dr. Malvika Sharan
 * Introduce Speakers
 
 ### 11:15AM - 11:45AM: 
-Presentations by Ms. Yo Yehudi
+Presentations by Yo Yehudi
 
 ### 11:45AM - 12:15AM: 
-Presentations by Dr. Nikoleta Glynatsi
+Presentations by Nikoleta Glynatsi
 
