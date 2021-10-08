@@ -24,17 +24,15 @@ Open Discussion
 * Welcome
 * Introduce Speakers
 
-### 11:10AM - 12:20AM: 
+### 11:10AM - 12:10PM: 
 Presentations by Sara El-Gebali and Ziyaad Parker 
 
-### 12:20 - 12:25PM:
+### 12:10 - 12:15PM:
 BREAK
 
-### 12:25 - 12:45
+### 12:15 - 12:40
 Panel discussion by Faisal Fadlelmola
 
-### 12:45PM -12:55PM
-BREAK
 
 ## Day 3: Project Planning (October 13, 11:00AM - 12:45PM)
 ### 11:00AM - 11:10AM (Caleb, Mike)
