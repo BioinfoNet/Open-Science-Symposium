@@ -3,20 +3,20 @@
 ## Day 1: Open Science (October 11, 11:00AM - 12:45PM)
 ### 11:00AM - 11:10AM (Caleb, Pauline, David)
 * Welcome
-* Opening presentation about BOSSEvents
+* Opening presentation about BOSSEvents (Michael Landi)
 * Introduce Speakers
 
-### 11:15AM - 12:00PM: 
+### 11:10AM - 12:00PM: 
 Presentations by Joy Owango and Roheena Anand
 
 ### 12:00 - 12:10 
 BREAK
 
-### 12:10 - 12:45
-Panel Discussion
+### 12:10 - 12:30
+Presentation on Open Science in Kenya paper (Kennedy)
 
-### 12:45PM - 12:55PM
-BREAK
+### 12:30PM - 12:45PM
+Open Discussion
 
 
 ## Day 2: Research Data Management (October 12, 11:00AM - 12:45PM)
