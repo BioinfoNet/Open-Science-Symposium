@@ -1,60 +1,90 @@
 # Open Science Symposium Schedule
 
-## Day 1 (October 11, 11:00AM - 12:45PM)
-### 11:00AM - 11:10AM: Welcome (Caleb, Pauline, David)
+## Day 1: Open Science (October 11, 11:00AM - 12:45PM)
+### 11:00AM - 11:10AM (Caleb, Pauline, David)
 * Welcome
 * Opening presentation about BOSSEvents
 * Introduce Speakers
 
-### 11:15AM - 11:45AM: 
-Presentations by Caleb Kibet
+### 11:15AM - 12:00PM: 
+Presentations by Joy Owango and Roheena Anand
 
-### 11:45AM - 12:15PM:
-Presentation by Jo Havemann
+### 12:00 - 12:10 
+BREAK
 
-### 12:15PM - 12:45PM:
-Presentation by Johansen Obanda
+### 12:10 - 12:45
+Panel Discussion
 
 ### 12:45PM - 12:55PM
-* BREAK
+BREAK
 
 
-## Day 2 (October 12, 11:00AM - 12:45PM)
-### 11:00AM - 11:10AM: Welcome (Caleb, Kennedy)
+## Day 2: Research Data Management (October 12, 11:00AM - 12:45PM)
+### 11:00AM - 11:10AM (Caleb, Kennedy)
 * Welcome
-* Opening presentation about BOSSEvents
 * Introduce Speakers
 
-### 11:15AM - 11:45AM: 
-Presentations by Sara El-Gebali
+### 11:10AM - 12:20AM: 
+Presentations by Sara El-Gebali and Ziyaad Parker 
 
-## Day 3 (October 13, 11:00AM - 12:45PM)
-### 11:00AM - 11:10AM: Welcome (Caleb, Mike)
+### 12:20 - 12:25PM:
+BREAK
+
+### 12:25 - 12:45
+Presentation by member
+
+### 12:45PM -12:55PM
+BREAK
+
+## Day 3: Project Planning (October 13, 11:00AM - 12:45PM)
+### 11:00AM - 11:10AM (Caleb, Mike)
 * Welcome
-* Opening presentation about BOSSEvents
 * Introduce Speakers
 
-### 11:15AM - 11:45AM: 
-Presentations by Joy Owango
+### 11:10AM - 12:00AM: 
+Presentations by Caleb Kibet
 
-## Day 4 (October 14, 11:00AM - 12:45PM)
-### 11:00AM - 11:10AM: Welcome (Caleb, Margaret)
+### 12:00 - 12:10PM:
+BREAK
+
+### 12:10 - 12:45
+
+### 12:45PM - 12:55PM
+BREAK
+
+
+## Day 4: Reproducibility in research (October 14, 11:00AM - 12:45PM)
+### 11:00AM - 11:10AM (Caleb, Margaret)
 * Welcome
-* Opening presentation about BOSSEvents
 * Introduce Speakers
 
-### 11:15AM - 11:45AM: 
+### 11:10AM - 12:00AM:
 Presentations by Malvika Sharan
 
-## Day 5 (October 15, 11:00AM - 12:45PM)
-### 11:00AM - 11:10AM: Welcome (Caleb, Festus)
+### 12:00 - 12:10PM:
+BREAK
+
+### 12:10 - 12:45PM:
+Discussion on community (BHKi)
+
+### 12:45 - 12:55PM 
+BREAK
+
+## Day 5: Contribution to open source projects: “a practical approach”  (October 15, 11:00AM - 12:45PM)
+### 11:00AM - 11:10AM (Caleb, Festus)
 * Welcome
-* Opening presentation about BOSSEvents
 * Introduce Speakers
 
-### 11:15AM - 11:45AM: 
-Presentations by Yo Yehudi
+### 11:10AM - 12:15PM: 
+Presentations by Yo Yehudi and Nikoleta Glynatsi
 
-### 11:45AM - 12:15AM: 
-Presentations by Nikoleta Glynatsi
+### 12:15 - 12:20PM:
+BREAK
+
+### 12:20 - 12:45PM:
+Presentation by Festus
+
+### 12:45 - 12:55PM: 
+BREAK
+
 
