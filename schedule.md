@@ -31,7 +31,7 @@ Presentations by Sara El-Gebali and Ziyaad Parker
 BREAK
 
 ### 12:25 - 12:45
-Presentation by member
+Panel discussion by Faisal Fadlelmola
 
 ### 12:45PM -12:55PM
 BREAK
