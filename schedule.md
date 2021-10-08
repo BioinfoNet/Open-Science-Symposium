@@ -1,12 +1,12 @@
 # Open Science Symposium Schedule
 
-## Day 1: Open Science (October 11, 11:00AM - 12:45PM)
+## Day 1: Open Science (October 11, 11:00AM - 12:45PM GMT +3)
 ### 11:00AM - 11:10AM (Caleb, Pauline, David)
 * Welcome
 * Opening presentation about BOSSEvents (Michael Landi)
 * Introduce Speakers
 
-### 11:10AM - 12:00PM: 
+### 11:10AM - 12:00PM GMT +3: 
 Presentations by Joy Owango and Roheena Anand
 
 ### 12:00 - 12:10 
@@ -19,7 +19,7 @@ Presentation on Open Science in Kenya paper (Kennedy)
 Open Discussion
 
 
-## Day 2: Research Data Management (October 12, 11:00AM - 12:45PM)
+## Day 2: Research Data Management (October 12, 11:00AM - 12:45PM GMT +3)
 ### 11:00AM - 11:10AM (Caleb, Kennedy)
 * Welcome
 * Introduce Speakers
@@ -34,7 +34,7 @@ BREAK
 Panel discussion by Faisal Fadlelmola
 
 
-## Day 3: Project Planning (October 13, 11:00AM - 12:45PM)
+## Day 3: Project Planning (October 13, 11:00AM - 12:45PM GMT +3)
 ### 11:00AM - 11:10AM (Caleb, Mike)
 * Welcome
 * Introduce Speakers
@@ -43,7 +43,7 @@ Panel discussion by Faisal Fadlelmola
 Presentations by Caleb Kibet
 
 
-## Day 4: Reproducibility in research (October 14, 11:00AM - 12:45PM)
+## Day 4: Reproducibility in research (October 14, 11:00AM - 12:45PM GMT +3)
 ### 11:00AM - 11:10AM (Caleb, Margaret)
 * Welcome
 * Introduce Speakers
@@ -57,7 +57,7 @@ BREAK
 ### 12:10 - 12:45PM:
 Panel discussion on community (BHKi)
 
-## Day 5: Contribution to open source projects: “a practical approach”  (October 15, 11:00AM - 12:45PM)
+## Day 5: Contribution to open source projects: “a practical approach”  (October 15, 11:00AM - 12:45PM GMT +3)
 ### 11:00AM - 11:10AM (Caleb, Festus)
 * Welcome
 * Introduce Speakers
